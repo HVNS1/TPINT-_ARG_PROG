@@ -1,0 +1,2 @@
+﻿base_de_datos;usuario;password;puntos_aciertos;puntos_ronda;puntos_fase
+localhost:3306/pronosticos;root;root;2;50;75
